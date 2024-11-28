@@ -1,2 +1,2 @@
-# Hyperblog_v2
-Un blog v2
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
